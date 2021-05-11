@@ -14,7 +14,7 @@
 ## :blue_book: What I am Planning to Learn
 **Javascript**\
 **React**\
-**Swift**
+**Swift**\
 **C#**
 
 ## My Stats
