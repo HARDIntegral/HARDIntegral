@@ -12,7 +12,7 @@
 **Rust**
 
 ## :blue_book: What I am Planning to Learn
-**Javascript**\
+**Javascript/Typescript**\
 **React**\
 **Swift**\
 **C#**
