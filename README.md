@@ -15,6 +15,7 @@
 **Javascript**\
 **React**\
 **Swift**
+**C#**
 
 ## My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HARDIntegral&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
