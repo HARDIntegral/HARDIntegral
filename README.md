@@ -1,10 +1,10 @@
 <h1 align="center"> I Have No Idea What I Am Doing :mechanical_leg: </h1>
 
-<h3 align="center">I am pretty interested in low level languages and embeded systems. Also intrigued by web development.</h3>
+<h3 align="center">I am pretty interested in low level languages and embeded systems. Also intrigued by web development. In love with not completing projects!</h3>
 
 ## What I am working on
 :infinity: **IntegralCAS** | Lightweight Command Line CAS\
-:hammer: **Nail** | Statically Typed Scripting Language Written in Rust
+🍒 **Bal** | Statically Typed Scripting Language Written in C
 
 ## :green_book: What I am Learning
 **C**\
