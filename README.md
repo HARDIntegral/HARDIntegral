@@ -3,8 +3,9 @@
 <h3 align="center">I am pretty interested in low level languages and embeded systems. Also intrigued by web development. In love with not completing projects!</h3>
 
 ## What I am working on
-:infinity: **IntegralCAS** | Lightweight Command Line CAS\
-🍒 **Bal** | Statically Typed Scripting Language Written in C
+**Land Ahoy** | Island Generater Using Noise Implemented in Rust \
+**Flum** | Simple Scripting Language Written in C\
+**ADHD Classifier** | Research Project at my Internship
 
 ## :green_book: What I am Learning
 **C**\
