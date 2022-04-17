@@ -9,10 +9,11 @@
 
 ## :green_book: What I am Learning
 **C**\
-**Rust**
+**Typescript**
 
 ## :blue_book: What I am Planning to Learn
 **React**\
+**Rust**\
 **C#**
 
 ## My Stats
